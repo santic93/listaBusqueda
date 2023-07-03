@@ -1,0 +1,27 @@
+.busq {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border-radius: 25px;
+  background-color: brown;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+input {
+  text-align: center;
+  color: blueviolet;
+  border-radius: 25px;
+  font-weight: bold;
+}
+input:hover {
+  background-color: tomato;
+}
+input:hover ul > li {
+  display: none;
+  background-color: aquamarine;
+}

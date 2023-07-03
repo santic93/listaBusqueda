@@ -1,0 +1,18 @@
+label {
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: cadetblue;
+}
+.order {
+  text-align: right;
+  padding: 5px;
+  margin: 5px;
+}
+select{
+  text-align: center;
+  border-radius: 15px;
+  font-weight: bolder;
+  padding: 5px;
+  margin-left: 5px;
+}
